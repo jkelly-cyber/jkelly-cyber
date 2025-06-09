@@ -1,5 +1,5 @@
 👋 Hi, I’m @jkelly-cyber  
-- 🎓 I’m currently studying the Diploma of Information Technology (Cyber Security & Advanced Networking) at Swinburne University (FIPT)  
+- 🎓 I’m currently studying the Diploma of Information Technology (Cyber Security & Advanced Networking) at Swinburne University
 - 🔐 I’m interested in network security, cloud infrastructure (AWS), SIEM, firewalls, and penetration testing  
 - 🌱 I’m currently learning advanced networking, incident response, and building secure cloud environments on AWS  
 - 💼 I’m building a portfolio to showcase hands-on labs, Packet Tracer configs, AWS projects, and security automation  
